@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextDetection", "TextDetection\TextDetection.csproj", "{52E69F0D-F09D-4444-BE89-96C8D20CE6F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52E69F0D-F09D-4444-BE89-96C8D20CE6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E69F0D-F09D-4444-BE89-96C8D20CE6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E69F0D-F09D-4444-BE89-96C8D20CE6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E69F0D-F09D-4444-BE89-96C8D20CE6F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC609C80-22B9-4C5B-934E-10F1C10F62B1}
+	EndGlobalSection
+EndGlobal
